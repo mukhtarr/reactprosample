@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "KOENIG",
+      "body": "REACT",
+      "latest": true,
+      "oldest": false,
+      "liked": true,
+      "disliked": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "FLutter",
+      "body": "qweqwewqe",
+      "latest": false,
+      "oldest": true,
+      "liked": true,
+      "disliked": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "REACT",
+      "body": "NATIVE",
+      "latest": false,
+      "oldest": true,
+      "liked": false,
+      "disliked": true
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "name": "ADMIN",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "email": "guest@gmail.com",
+      "password": "guest123",
+      "name": "GUEST",
+      "role": "Guest"
+    },
+    {
+      "email": "mukhtar@gmail.com",
+      "password": "mukhtar123",
+      "name": "GUEST",
+      "role": "Guest",
+      "id": 3
+    },
+    {
+      "email": "ansari@gmail.com",
+      "password": "ansari123",
+      "name": "GUEST",
+      "role": "Guest",
+      "id": 4
+    },
+    {
+      "email": "maria@gmail.com",
+      "password": "maria123",
+      "name": "GUEST",
+      "role": "Guest",
+      "id": 5
+    }
+  ]
+}
